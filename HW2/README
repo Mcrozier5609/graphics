@@ -1,0 +1,17 @@
+CSCI 4229: Michael Crozier
+
+ASSIGNEMT 2: LORENZ ATTRACTOR
+
+Compilation:
+
+Type 'make' to compile, and './hw2' to run
+
+Description:
+Displays a Lorenz Attractor with RAINBOW colors.
+
+Usage:
+To change viewing angle, press the arrow keys.
+There are 4 variables. s, b, and r for the Lorenz Attractor and color frequency is represents how many lines it passes before changing color for the rainbow. In order to change a variable, you must be in the correct mode to change that variable. Press '1' to be able to change s, '2' for b, '3' for r, and '4' for color frequency. Once in the correct mode, press '+' and '-' to increase or decrease the value of that variable respectively. s, r, and b change by 0.1 each, and color frequency changes by 1.
+
+Completion Time:
+This assignment took me about 4 hours to complete. I also use the ex6 code, and the lorenz attractor code that was posted, so citing that.

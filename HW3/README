@@ -1,0 +1,18 @@
+Michael Crozier, CSCI 4229, Assignment 3: 3D scene
+
+Compile/Run:
+
+type 'make' to compile, and './hw3' to run
+
+Description:
+A few colorful spooky skeletons of various sizes and orietations.
+
+Usage:
+To change viewing angle hit the arrow keys. Do note that each skeleton while made of multiple bone like pieces comes as a set. The display fuction calls the body function which draws all the pieces, and changes to the scale and rotation changes the scale and rotation for the whole set, except for the head. It's sclae can be set on it's own becuase that's funny, as you can see in the green skeleton. Also note this is my late submission but still in the grace period so I think it should be all good? If not there's a way lamer submission before midnight on moodle.
+
+Completion time:
+7 hours ish
+
+Citations:
+Used some of the example 8 code, so citing that
+Code for making a circle: https://gist.github.com/linusthe3rd/803118

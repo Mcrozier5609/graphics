@@ -1,0 +1,40 @@
+Hunter Haskins
+Final Projdect
+
+how to compile:
+make
+
+how to run
+./final
+
+controls:
+Key bindings:
+  spacebar   fires cannonballs from both cannons
+  w          moves the ship foward
+  s          moves the ship backward
+  a          rotates the ship around the y axis
+  d          rotates the ship around teh y axis
+  o          Toggles the monster being visable
+
+  l          Toggles lighting
+  j/J        Decrease/increase ambient light
+  k/K        Decrease/increase diffuse light
+  h/H        Decrease/increase specular light
+  e/E        Decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  F1         Toggle smooth/flat shading
+  F2         Toggle local viewer mode
+  F3         Toggle light distance (1/5)
+  F8         Change ball increment
+  F9         Invert bottom normal
+  m          Toggles light movement
+  []         Lower/rise light
+  p          Toggles ortogonal/perspective projection
+  +/-        Change field of view of perspective
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+
+Note:
+I think the ship turned out pretty well, I wish I could have made the monster look better than it turned out. Make sure you check out the details of the ship, like the lookout station, the steering wheel, the ropes, and the new textures. Also make sure you hit space to fire the cannons. I wanted to add fog, but it would cause massive fps drops and it wouldn't interact with the water well, so I have that commented out. Finally, not project related, but I really enjoyed the class, thanks for a fun semester!

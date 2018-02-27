@@ -1,0 +1,26 @@
+Michael Crozier Final Project
+
+A simple little house inspired by Animal Crossing
+
+To compile/run:
+type 'make' to compile, and './animalcrossing' to run
+
+USAGE:
+
+  l          Turns on and off lamp inside the house
+  p          Toggles view of house between inside and outside
+  t          Turns on and off the TV
+  v          Changes channels on the TV
+  s          Toggle season between summer and winter
+  +/-        zoom in and out
+  arrows     Change view angle
+  0          Reset view angle
+  ESC        Exit
+
+Citations:
+I used snippets of code from various exercises that I don't all remember, plus the CSCIx229 library
+
+Description/Neato stuff:
+The scene is of a nice little house in a forest background. Upon starting the program you should see the house, with mailbox, fence, and flowers. There should also be a white ball moving around, that's a sun-like light source. Definitely move the camera around to get a good look at everything. On the left side of the house (its left), there is a transparent window. Press p to be able to see the inside of the house. Inside there are various pieces of furniture as well as a rug and poster on the wall. You can press 'l' to turn on the lamp, look from above to see the lightbulb turn on and off as you do so. Of note here is the TV. Turn the camera around to see the front of the TV and turn it on by pressing 't'. Press 'v' to change channels on the TV. Every image on the TV comes from one single bmp file, where I just take little pieces of it to display at a time. Each channel is 4 images that it flips between. Finally, press s to change the season to winter. The background, ground, and top of the house will now change to be snow covered. The inside of the house (most notably the inside of the roof) stay dry though. The most important change with winter though is the snow particle system. There are a maximum of 500 snowflakes at a time that drift down. They are just circles with a snowflake texture on them but they always face the camera, and they never go inside the house.
+
+So to summarize the coolest stuff, lots of shapes, transparent window, working TV, and snowy particle system.

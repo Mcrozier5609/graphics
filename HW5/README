@@ -1,0 +1,48 @@
+Michael Crozier HW5: SPOOKY SCARY MOOD LIGHTING
+
+Demonstrates basic lighting on a set of skeletons,
+with and optional bobbing light.
+
+To compile/run:
+type 'make' to compile, and './hw5' to run
+
+Description:
+A light spookily floating around some spooky skeletons. The default light is
+bobbing up and down, to stop this press 'b', for bobbing.
+
+USAGE:
+
+KEY BINDINGS FROM EXERCISE 13
+
+  l          Toggles lighting
+  a/A        Decrease/increase ambient light
+  d/D        Decrease/increase diffuse light
+  s/S        Decrease/increase specular light
+  e/E        Decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  F1         Toggle smooth/flat shading
+  F2         Toggle local viewer mode
+  F3         Toggle light distance (1/5)
+  F8         Change ball increment
+  F9         Invert bottom normal
+  m          Toggles light movement
+  []         Lower/rise light
+  p          Toggles ortogonal/perspective projection
+  +/-        Change field of view of perspective
+  x          Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+
+NEW KEY BINDINGS
+
+  b          Toggle light bobbing
+  h/H        Decrease/Increase magnitude of light bobbing (from 0-40)
+  j/J        Decrease/Increase frequency of light bobbing (from 0-359)
+
+Citations:
+I used the exercise 13 code
+
+Completion time:
+5 Hours

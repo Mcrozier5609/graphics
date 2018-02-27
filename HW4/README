@@ -1,0 +1,33 @@
+Michael Crozier HW4: Projections
+
+To compile/run:
+type 'make' to compile, and './hw4' to run
+
+Description:
+Orthogonal and Perspective overhead views of a bunch of SKELETONS! And a first person perspective to walk around with THE SKELETONS!(with tank controls, as in you can move forward and backward and turn.
+
+Usage:
+
+GENERAL CONTROLS:
+
+	m: cycle through perspective modes, 0=orthogonal, 1=perspective, 2=fpp
+	pgUp: increase dimension
+	pgDown: decrease dimesion
+	+: increase fov
+	-: decrease fov
+
+IN ORTHOGONAL AND PERSPECTIVE MODES:
+
+	arrow keys: change viewing angle in orthogonal and perspective modes
+
+IN FPP MODE:
+
+	w: move forward
+	s: move backward
+	a: look left
+	d: look right
+	e: look up
+	c: look down
+
+Completion Time:
+About 4 hours.
